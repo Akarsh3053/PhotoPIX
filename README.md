@@ -22,3 +22,6 @@ PhotoPIX is a visually stunning and user-friendly front-end web development proj
 - Step 1: Clone the project 
 - Step 2: Add extra images and other customizations
 - Step 3: Run!!
+
+### Check Live Preview Here
+<img src="https://media.giphy.com/media/hHjOpLaawe5rvWvcTn/giphy.gif" />
