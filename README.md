@@ -24,4 +24,4 @@ PhotoPIX is a visually stunning and user-friendly front-end web development proj
 - Step 3: Run!!
 
 ### Check Live Preview Here
-<img src="https://media.giphy.com/media/hHjOpLaawe5rvWvcTn/giphy.gif" />
+<img src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0042.gif" />
