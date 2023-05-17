@@ -24,4 +24,4 @@ PhotoPIX is a visually stunning and user-friendly front-end web development proj
 - Step 3: Run!!
 
 ### Check Live Preview Here
-<img src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0042.gif" />
+<a href="https://akarsh3053.github.io/PhotoPIX/" target="_blank"><img src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0042.gif" /></a>
